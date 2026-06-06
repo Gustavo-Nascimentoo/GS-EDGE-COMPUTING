@@ -208,7 +208,9 @@ Adicionar link aqui:
 ```md
 https://wokwi.com/projects/465209777453508609
 ```
-
+```md
+https://www.youtube.com/watch?v=Ft9hn26ZPu4
+```
 ---
 
 ## Entregáveis — Edge Computing
